@@ -16,3 +16,16 @@
                 cursor:wait;
 
 }
+.cat1{background-color:orange;}
+.cat2{background-color: orchid;}
+.cat3{background-color: blue;}
+
+.cat1,.cat2,.cat3{padding:10px 30px ;}
+
+
+.row{margin-top: 80px;margin-bottom: 80px;}
+
+.categories h1{color: white;}
+
+.categories img{width:100px ;}
+.categories div{border-radius: 5px;}
