@@ -1,6 +1,6 @@
 .orange-bg{
 
-    background-color: #fceae8;
+    background-color: #f7eaeafa;
     border-radius:6px;
     margin-top: 100px;
 }
@@ -29,3 +29,27 @@
 
 .categories img{width:100px ;}
 .categories div{border-radius: 5px;}
+
+
+.card-deck{margin-bottom:80px; 
+          margin-top:80px ;   
+}
+ 
+
+.card{border:none;
+    box-shadow: 5px 5px 12px lightpink;
+
+}
+
+.card-footer{
+    background-color:white ;
+    border: none;
+    align-items: flex-end;
+}
+
+ 
+
+#subscribe{height: 350px ;}  
+  
+
+#subscribe h6{color: grey;}
